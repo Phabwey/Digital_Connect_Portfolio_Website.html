@@ -298,5 +298,49 @@ GitHub: https://github.com/Phabwey
 
 Installation Guide: docs/guides/Installation_Guide.pdf
 
+___
+
+# Website Screenshots
+
+## 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+Description: The home page introduces users to the Digital Connect Internet Café Management System and provides navigation to the website's main features.
+
+---
+
+## 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+Description: Users can log in securely using their username and password.
+
+---
+
+## ℹ️ About Us
+
+![About Us](screenshots/about.png)
+
+Description: This page provides information about Digital Connect, its mission, and the services it offers.
+
+---
+
+## 📞 Contact
+
+![Contact](screenshots/contact.png)
+
+Description: Users can contact the business using the provided contact details and inquiry form.
+
+---
+
+## 🖥️ Services
+
+![Services](screenshots/services.png)
+
+Description: Displays the services available, such as internet access, printing, scanning, and online bookings.
+
+___
+
 ## ⭐ If you found this project useful, consider giving it a star on GitHub.
 
