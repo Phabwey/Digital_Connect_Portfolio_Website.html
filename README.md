@@ -294,6 +294,9 @@ LinkedIn: https://www.linkedin.com/in/paballo-litabe
 GitHub: https://github.com/Phabwey
 
 ---
+Documentation
+
+Installation Guide: docs/guides/Installation_Guide.pdf
 
 ## ⭐ If you found this project useful, consider giving it a star on GitHub.
 
